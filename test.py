@@ -3,7 +3,6 @@ import os
 from argparse import ArgumentParser, RawTextHelpFormatter
 from threading import Thread
 import requests
-import cprint
 count = -1
 total_proxies = []
 live_proxies = []
